@@ -197,10 +197,6 @@ body {
 .info img {
   height: 500px;
 }
-@media (min-width: 576px)
-.info img {
-    width: 100%;
-}
 .info p {
   font-size: 25px;
   font-weight: lighter;
